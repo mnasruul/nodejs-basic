@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mnasruul/nodejs-basic/issues"
   },
-  "homepage": "https://github.com/mnasruul/nodejs-basic#readme"
+  "homepage": "https://github.com/mnasruul/nodejs-basic#readme",
+  "dependencies": {
+    "loadsh": "^0.0.4",
+    "lodash": "^4.17.21"
+  }
 }
